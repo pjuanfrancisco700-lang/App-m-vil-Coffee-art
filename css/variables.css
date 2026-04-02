@@ -1,0 +1,18 @@
+:root {
+--bg-main: #050816;
+--bg-overlay: rgba(8, 12, 24, 0.74);
+--card-bg: rgba(255, 255, 255, 0.08);
+--card-border: rgba(255, 255, 255, 0.14);
+--text-main: #ffffff;
+--text-soft: rgba(255, 255, 255, 0.72);
+--text-fade: rgba(255, 255, 255, 0.5);
+--accent: #6b7cff;
+--accent-2: #8ba3ff;
+--success: #7ed6a7;
+--shadow-soft: 0 18px 60px rgba(0, 0, 0, 0.35);
+--radius-lg: 22px;
+--radius-xl: 30px;
+--radius-full: 999px;
+--max-width: 430px;
+--font-main: 'Inter', system-ui, sans-serif;
+}
